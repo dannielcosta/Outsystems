@@ -1,4 +1,4 @@
-# OutSystems Web and Mobile App Development Lessons
+<center># OutSystems Web and Mobile App Development Lessons</center>
 
 
 ![OutSystems Logo](<https://diginationmea.com/w/wp-content/uploads/2021/01/OutSystems-logo.png>)
