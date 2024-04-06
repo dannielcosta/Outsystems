@@ -11,9 +11,9 @@ This repository hosts a series of lessons and resources aimed at helping you lea
 
 The repository is organized into two main sections:
 
-### OutSystems Developing Web Apps
+### <a href="https://github.com/dannielcosta/Outsystems/tree/main/Developing%20Mobile%20Apps%20(Outsystems%2011)">🔗 OutSystems Developing Web Apps</a>
 
-### OutSystems Developing Mobile Apps
+### <a href="https://github.com/dannielcosta/Outsystems/tree/main/Developing%20Web%20Apps%20(Outsystems%2011)">🔗 OutSystems Developing Mobile Apps</a>
 
 ## Getting Started
 
